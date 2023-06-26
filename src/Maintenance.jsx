@@ -4,7 +4,7 @@ import icon from "./assets/icon.png";
 export class Maintenance extends Component {
 	render() {
 		return (
-			<div className="bg-gray-200 flex flex-col items-center justify-center h-screen text-center">
+			<div className="bg-gray-200 p-4 flex flex-col items-center justify-center h-screen text-center">
 			<img
 					src={icon}
 					alt="Storewire B.V."
